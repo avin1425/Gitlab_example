@@ -11,5 +11,4 @@ jobs:
   Job2-Message-Windows-Actions:
     runs-on: windows-latest
     steps:
-      - run: echo "Welcome to Windows"
-      
+      - run: echo "Welcome to Windows" 
